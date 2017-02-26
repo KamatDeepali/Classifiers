@@ -48,9 +48,6 @@ def KNN(data,k):
 
 
 
-
-
-
 KNN(data,15)
 
 
