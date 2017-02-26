@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 #loading data
 data = load("/Users/deepaliKamat/Downloads/data.npy")
 
-
 def covk(data):
     x1 = data[:,0]  #200x1
     x2 = data[:,1]  #200x1
