@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 
 data = load("/Users/deepaliKamat/Downloads/data.npy")
 
-
 #  QUESTION 2(a)
 #  Function for Least squares Linear Classifier
 def least_Square(data):
@@ -261,7 +260,7 @@ def KNN(data,k):
 
 
 # Least Squares Linear Classifier
-#least_Square(data)
+least_Square(data)
 # Nearest Neighbor Classifier
 KNN(data,1)
  #15 - Nearest Neighbor Classifier
